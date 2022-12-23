@@ -4,7 +4,7 @@ Projects:
 
 ## Freelancing Business Report - POWER BI
 
-<img src= "powerbi.png" 
+<img src= "images/powerbi.png" 
      width="400" 
      height="500" />
 

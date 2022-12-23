@@ -5,8 +5,8 @@ Projects:
 ## Freelancing Business Report - POWER BI
 
 <img src= "images/powerbi.png" 
-     width="600" 
-     height="350" />
+     width="650" 
+     height="400" />
 
 > End-point of a Data Analysis regarding a Freelancing Bussines, developed by using Google Sheets, Python and Power BI.
 

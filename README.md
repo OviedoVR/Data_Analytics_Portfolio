@@ -6,7 +6,7 @@ Projects:
 
 <img src= "images/powerbi.png" 
      width="600" 
-     height="600" />
+     height="350" />
 
 > End-point of a Data Analysis regarding a Freelancing Bussines, developed by using Google Sheets, Python and Power BI.
 
